@@ -33,5 +33,5 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
+git clone https://github.com/Vani-Kumari/FindJob.git
+cd FindJob
